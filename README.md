@@ -1,5 +1,7 @@
 
 # Monty Interpreter
+___
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Innocentsax/standard-readme)
 
 A language interpreter made in the C programming language to manage stacks and queues (LIFO and FIFO). The aim is to interpret Monty bytecodes files. [Monty](http://montyscoconut.github.io/) is a language that aims to close the gap between scripting and programming languages.
 
@@ -117,5 +119,6 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 All files have been written in the Betty Style.
 
 ## Authors
-**INNOCENT UDO** - [Github](https://github.com/Innocentsax) [innocentcharlesud@gmail.com](mailto:innocentcharlesudo@gmail.com)
+© **INNOCENT UDO** - [Github](https://github.com/Innocentsax) [innocentcharlesud@gmail.com](mailto:innocentcharlesudo@gmail.com)
+___
 **PIUS OWOLABI** - [Github](https://github.com/opius2017) [opius2017@gmail.com](mailto:opius2007@gmail.com)
