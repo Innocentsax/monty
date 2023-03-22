@@ -125,6 +125,6 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 All files have been written in the Betty Style.
 
 ## Authors
-© **INNOCENT UDO** - [Github](https://github.com/Innocentsax) [innocentcharlesud@gmail.com](mailto:innocentcharlesudo@gmail.com)
+© **INNOCENT UDO** - [Github Account](https://github.com/Innocentsax) Email:[innocentcharlesud@gmail.com](mailto:innocentcharlesudo@gmail.com)
 
-© **PIUS OWOLABI** - [Github](https://github.com/opius2017) [opius2007@gmail.com](mailto:opius2007@gmail.com)
+© **PIUS OWOLABI** - [Github Account](https://github.com/opius2017) Email: [opius2007@gmail.com](mailto:opius2007@gmail.com)
