@@ -11,6 +11,7 @@ int run_monty(FILE *script_fd);
  * free_tokens - Frees the global op_toks array of strings.
  * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
+
 void free_tokens(void)
 {
 	size_t i = 0;
