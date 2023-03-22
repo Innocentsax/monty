@@ -31,6 +31,7 @@ void free_stack(stack_t **stack)
  * Return: If an error occurs - EXIT_FAILURE.
  *         Otherwise - EXIT_SUCCESS.
  */
+
 int init_stack(stack_t **stack)
 {
 	stack_t *s;
