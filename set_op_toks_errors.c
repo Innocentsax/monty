@@ -3,7 +3,6 @@
 /**
  * set_op_tok_error - Sets last element of op_toks to be an error code.
  * @error_code: Integer to store as a string in op_toks.
- * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
 
 void set_op_tok_error(int error_code)
