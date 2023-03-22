@@ -11,6 +11,7 @@ void monty_queue(stack_t **stack, unsigned int line_number);
  * @line_number: The current working line number of a Monty bytecodes file.
  * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
+
 void monty_rotl(stack_t **stack, unsigned int line_number)
 {
 	stack_t *top, *bottom;
