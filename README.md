@@ -1,7 +1,13 @@
 
-# Monty Interpreter
+# Monty language
 ___
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Innocentsax/standard-readme)
+
+<p align="center">
+<img src="https://payload148.cargocollective.com/1/11/353777/5270131/Dogs.jpg">
+</p>
+
+The Monty language is a scripting language that is first compiled into Monty byte codes. It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
 A language interpreter made in the C programming language to manage stacks and queues (LIFO and FIFO). The aim is to interpret Monty bytecodes files. [Monty](http://montyscoconut.github.io/) is a language that aims to close the gap between scripting and programming languages.
 
