@@ -11,6 +11,7 @@ void fill_numbase_buff(unsigned int num, unsigned int base,
  * @num: number to convert to string
  *
  * Return: character pointer to newly created string. NULL if malloc fails.
+ * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
 char *get_int(int num)
 {
