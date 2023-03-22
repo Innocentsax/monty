@@ -13,6 +13,7 @@ void monty_mod(stack_t **stack, unsigned int line_number);
  *
  * Description: The result is stored in the second value node
  *              from the top and the top value  is removed.
+ * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
 void monty_add(stack_t **stack, unsigned int line_number)
 {
