@@ -15,6 +15,7 @@ void monty_mod(stack_t **stack, unsigned int line_number);
  *              from the top and the top value  is removed.
  * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
+
 void monty_add(stack_t **stack, unsigned int line_number)
 {
 	if ((*stack)->next == NULL || (*stack)->next->next == NULL)
