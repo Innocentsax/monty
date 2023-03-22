@@ -5,6 +5,7 @@
  * @error_code: Integer to store as a string in op_toks.
  * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
+
 void set_op_tok_error(int error_code)
 {
 	int toks_len = 0, i = 0;
