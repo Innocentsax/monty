@@ -11,7 +11,6 @@ char **op_toks = NULL;
  * @argv: pointer to an array of char pointers to arguments
  *
  * Return: (EXIT_SUCCESS) on success (EXIT_FAILURE) on error
- * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
 int main(int argc, char **argv)
 {
