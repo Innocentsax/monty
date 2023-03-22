@@ -8,8 +8,8 @@ int no_int_error(unsigned int line_number);
 
 /**
  * usage_error - Prints usage error messages.
- *
  * Return: (EXIT_FAILURE) always.
+ * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
 int usage_error(void)
 {
