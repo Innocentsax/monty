@@ -10,7 +10,6 @@ int pchar_error(unsigned int line_number, char *message);
  * pop_error - Prints pop error messages for empty stacks.
  * @line_number: Line number in script where error occured.
  * Return: (EXIT_FAILURE) always.
- * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
 
 int pop_error(unsigned int line_number)
