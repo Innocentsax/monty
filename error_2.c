@@ -12,6 +12,7 @@ int pchar_error(unsigned int line_number, char *message);
  * Return: (EXIT_FAILURE) always.
  * Authors: INNOCENT UDO © innocentcharlesud@gmail.com and PIUS OWOLABI © opius2007@gmail.com
  */
+
 int pop_error(unsigned int line_number)
 {
 	fprintf(stderr, "L%u: can't pop an empty stack\n", line_number);
